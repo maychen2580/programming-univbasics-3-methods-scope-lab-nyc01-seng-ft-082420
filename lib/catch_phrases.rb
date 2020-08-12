@@ -9,4 +9,6 @@ def toadstool
   puts status
 end
 
-def link_to_function
+def link
+  puts "It's Dangerous To Go Alone! Take This."
+end
